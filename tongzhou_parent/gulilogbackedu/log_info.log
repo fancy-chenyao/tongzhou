@@ -1,0 +1,183 @@
+2020-08-29 16:44:19.727 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - Starting BasicdataApplication on DESKTOP-O4TTOGB with PID 688 (started by admin in D:\develop\项目实战\tongzhou_parent)
+2020-08-29 16:44:19.735 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - The following profiles are active: dev
+2020-08-29 16:44:21.463 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-08-29 16:44:21.469 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-08-29 16:44:21.512 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 15ms. Found 0 repository interfaces.
+2020-08-29 16:44:22.259 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-08-29 16:44:23.867 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2020-08-29 16:44:23.890 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2020-08-29 16:44:23.892 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-29 16:44:23.894 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2020-08-29 16:44:24.300 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-29 16:44:24.301 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4466 ms
+2020-08-29 16:44:24.478 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-08-29 16:44:24.513 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-08-29 16:45:19.775 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - Starting BasicdataApplication on DESKTOP-O4TTOGB with PID 15680 (started by admin in D:\develop\项目实战\tongzhou_parent)
+2020-08-29 16:45:19.782 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - The following profiles are active: dev
+2020-08-29 16:45:21.547 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-08-29 16:45:21.551 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-08-29 16:45:21.588 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12ms. Found 0 repository interfaces.
+2020-08-29 16:45:22.748 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-08-29 16:45:24.714 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2020-08-29 16:45:24.756 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2020-08-29 16:45:24.757 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-29 16:45:24.758 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2020-08-29 16:45:25.030 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-29 16:45:25.031 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5145 ms
+2020-08-29 16:45:25.309 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-08-29 16:45:25.347 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-08-29 16:47:47.911 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - Starting BasicdataApplication on DESKTOP-O4TTOGB with PID 12888 (started by admin in D:\develop\项目实战\tongzhou_parent)
+2020-08-29 16:47:47.918 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - The following profiles are active: dev
+2020-08-29 16:47:50.056 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-08-29 16:47:50.062 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-08-29 16:47:50.123 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 25ms. Found 0 repository interfaces.
+2020-08-29 16:47:51.153 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-08-29 16:47:52.969 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2020-08-29 16:47:53.003 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2020-08-29 16:47:53.005 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-29 16:47:53.009 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2020-08-29 16:47:53.483 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-29 16:47:53.486 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5423 ms
+2020-08-29 16:47:53.719 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-08-29 16:47:53.762 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-08-29 16:48:45.146 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - Starting BasicdataApplication on DESKTOP-O4TTOGB with PID 14972 (started by admin in D:\develop\项目实战\tongzhou_parent)
+2020-08-29 16:48:45.154 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - The following profiles are active: dev
+2020-08-29 16:48:47.455 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-08-29 16:48:47.462 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-08-29 16:48:47.518 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 24ms. Found 0 repository interfaces.
+2020-08-29 16:48:54.682 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - Starting BasicdataApplication on DESKTOP-O4TTOGB with PID 1304 (started by admin in D:\develop\项目实战\tongzhou_parent)
+2020-08-29 16:48:54.689 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - The following profiles are active: dev
+2020-08-29 16:48:57.038 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-08-29 16:48:57.044 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-08-29 16:48:57.122 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 34ms. Found 0 repository interfaces.
+2020-08-29 16:48:58.330 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-08-29 16:49:00.215 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2020-08-29 16:49:00.351 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2020-08-29 16:49:00.354 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-29 16:49:00.356 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2020-08-29 16:49:00.892 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-29 16:49:00.892 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 6007 ms
+2020-08-29 16:49:01.056 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-08-29 16:49:01.299 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-08-29 16:49:21.474 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - Starting BasicdataApplication on DESKTOP-O4TTOGB with PID 3828 (started by admin in D:\develop\项目实战\tongzhou_parent)
+2020-08-29 16:49:21.480 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - The following profiles are active: dev
+2020-08-29 16:49:23.886 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-08-29 16:49:23.893 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-08-29 16:49:23.936 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2020-08-29 16:49:24.893 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-08-29 16:49:26.658 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2020-08-29 16:49:26.690 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2020-08-29 16:49:26.691 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-29 16:49:26.693 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2020-08-29 16:49:27.022 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-29 16:49:27.022 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5390 ms
+2020-08-29 16:49:27.246 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-08-29 16:49:27.304 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-08-29 16:53:19.276 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - Starting BasicdataApplication on DESKTOP-O4TTOGB with PID 12400 (started by admin in D:\develop\项目实战\tongzhou_parent)
+2020-08-29 16:53:19.282 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - The following profiles are active: dev
+2020-08-29 16:53:20.913 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-08-29 16:53:20.918 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-08-29 16:53:20.956 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 13ms. Found 0 repository interfaces.
+2020-08-29 16:53:21.640 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-08-29 16:53:22.918 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2020-08-29 16:53:22.936 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2020-08-29 16:53:22.937 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-29 16:53:22.938 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2020-08-29 16:53:23.342 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-29 16:53:23.345 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3936 ms
+2020-08-29 16:53:23.499 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-08-29 16:53:23.532 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-08-29 16:56:16.655 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - Starting BasicdataApplication on DESKTOP-O4TTOGB with PID 11632 (started by admin in D:\develop\项目实战\tongzhou_parent)
+2020-08-29 16:56:16.667 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - The following profiles are active: dev
+2020-08-29 16:56:18.803 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-08-29 16:56:18.808 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-08-29 16:56:18.873 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 15ms. Found 0 repository interfaces.
+2020-08-29 16:56:19.859 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-08-29 16:56:21.848 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2020-08-29 16:56:21.875 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2020-08-29 16:56:21.877 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-29 16:56:21.878 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2020-08-29 16:56:22.189 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-29 16:56:22.190 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5394 ms
+2020-08-29 16:56:22.532 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-08-29 16:56:22.576 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-08-29 17:03:07.196 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - Starting BasicdataApplication on DESKTOP-O4TTOGB with PID 20556 (started by admin in D:\develop\项目实战\tongzhou_parent)
+2020-08-29 17:03:07.203 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - The following profiles are active: dev
+2020-08-29 17:03:09.558 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-08-29 17:03:09.563 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-08-29 17:03:09.605 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 13ms. Found 0 repository interfaces.
+2020-08-29 17:03:10.618 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-08-29 17:03:12.608 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2020-08-29 17:03:12.634 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2020-08-29 17:03:12.636 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-29 17:03:12.637 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2020-08-29 17:03:12.940 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-29 17:03:12.941 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5623 ms
+2020-08-29 17:03:13.465 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-08-29 17:03:13.576 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-08-29 17:05:38.533 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - Starting BasicdataApplication on DESKTOP-O4TTOGB with PID 4772 (started by admin in D:\develop\项目实战\tongzhou_parent)
+2020-08-29 17:05:38.552 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - The following profiles are active: dev
+2020-08-29 17:05:40.542 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-08-29 17:05:40.546 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-08-29 17:05:40.587 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 15ms. Found 0 repository interfaces.
+2020-08-29 17:05:41.536 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-08-29 17:05:43.332 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2020-08-29 17:05:43.354 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2020-08-29 17:05:43.355 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-29 17:05:43.357 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2020-08-29 17:05:43.668 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-29 17:05:43.668 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4931 ms
+2020-08-29 17:05:44.295 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-08-29 17:05:44.676 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-08-29 17:05:45.986 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-08-29 17:05:46.159 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-29 17:05:47.071 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-08-29 17:05:47.159 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-08-29 17:05:47.324 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-08-29 17:05:47.566 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8001"]
+2020-08-29 17:05:47.598 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8001 (http) with context path ''
+2020-08-29 17:05:47.602 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - Started BasicdataApplication in 11.341 seconds (JVM running for 12.686)
+2020-08-29 17:06:25.450 [http-nio-8001-exec-3] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-29 17:06:25.452 [http-nio-8001-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-08-29 17:06:25.469 [http-nio-8001-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 17 ms
+2020-08-29 17:08:32.512 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - Starting BasicdataApplication on DESKTOP-O4TTOGB with PID 14632 (started by admin in D:\develop\项目实战\tongzhou_parent)
+2020-08-29 17:08:32.517 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - The following profiles are active: dev
+2020-08-29 17:08:34.356 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-08-29 17:08:34.361 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-08-29 17:08:34.403 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 14ms. Found 0 repository interfaces.
+2020-08-29 17:08:35.326 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-08-29 17:08:36.915 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2020-08-29 17:08:36.936 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2020-08-29 17:08:36.937 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-08-29 17:08:36.938 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2020-08-29 17:08:37.286 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-08-29 17:08:37.293 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4646 ms
+2020-08-29 17:08:37.760 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-08-29 17:08:38.132 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-08-29 17:08:39.408 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-08-29 17:08:39.585 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-29 17:08:40.447 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-08-29 17:08:40.480 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-08-29 17:08:40.532 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-08-29 17:08:40.795 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8001"]
+2020-08-29 17:08:40.819 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8001 (http) with context path ''
+2020-08-29 17:08:40.822 [main] INFO  cn.ncepu.service_basicdata.BasicdataApplication - Started BasicdataApplication in 10.629 seconds (JVM running for 11.925)
+2020-08-29 17:09:15.471 [http-nio-8001-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-29 17:09:15.471 [http-nio-8001-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-08-29 17:09:15.489 [http-nio-8001-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 17 ms
